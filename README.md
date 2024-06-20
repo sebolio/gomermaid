@@ -16,6 +16,12 @@ go run mermaid.go
      go build mermaid.go
      ```
 
+   - Para Windows:
+
+     ```sh
+     go build -ldflags -H=windowsgui mermaid.go
+     ```
+
    - Para Windows (desde Linux):
 
      ```sh
