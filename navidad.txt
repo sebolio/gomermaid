@@ -1,0 +1,7 @@
+flowchart TD
+    A[Navidad] -->|Conseguir plata| B(Ir a comprar)
+    B --> C{Opciones}
+    C -->|Uno| D[MacBook]
+    C -->|Dos| E[iPhone]
+    C -->|Tres| F[fa:fa-car Auto]
+  
