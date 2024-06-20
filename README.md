@@ -5,7 +5,6 @@ Este es un visualizador simple de diagramas Mermaid que muestra un diagrama en u
 ## Instalación
 
 ```
-go get
 go run mermaid.go
 ```
 
